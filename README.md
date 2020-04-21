@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/DevFactoryCH/taxonomy.svg?branch=master)](https://travis-ci.org/DevFactoryCH/taxonomy)
 [![Latest Stable Version](https://poser.pugx.org/trexology/taxonomy/v/stable.svg)](https://packagist.org/packages/trexology/taxonomy)
 [![Total Downloads](https://poser.pugx.org/trexology/taxonomy/downloads.svg)](https://packagist.org/packages/trexology/taxonomy)
 [![License](https://poser.pugx.org/trexology/taxonomy/license.svg)](https://packagist.org/packages/trexology/taxonomy)
@@ -8,6 +7,14 @@
 This package allows you to create vocabularies with terms in Laravel 4 and 5
 
 ## Installation
+
+### Laravel 6
+
+In your `composer.json` add:
+
+	"require": {
+		"trexology/taxonomy": "3.*"
+	}
 
 ### Laravel 5
 
